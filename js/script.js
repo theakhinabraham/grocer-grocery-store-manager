@@ -1,4 +1,4 @@
-window.addEventListener('load', function(){
+/*window.addEventListener('load', function(){
     const loaderIndex = document.querySelector(".loaderIndex");
     loaderIndex.className += " hidden";
 });
@@ -19,7 +19,7 @@ window.addEventListener('load', function(){
     const loaderTotalSales = document.querySelector(".loaderTotalSales");
     loaderTotalSales.className += " hidden";
 });
-
+*/
 
 function login(){
 
