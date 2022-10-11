@@ -11,7 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grocer | Stock Manager</title>
-    <link rel="stylesheet" href="http://localhost/myFolder/style.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
     <script src="http://localhost/myFolder/script.js"></script>
 </head>
@@ -23,10 +23,10 @@
     <nav class="navbar">
         <div class="nav">
             <i class="fas fa-seedling"></i>
-            <h1 class="heading"><a href="http://localhost/myFolder/index.html">Grocer</a></h1>
+            <h1 class="heading"><a href="index.html">Grocer</a></h1>
         </div>
         <div class="links">
-        <a href="http://localhost/myFolder/login.php" class="navButton">Switch to Customer</a>
+        <a href="login.php" class="navButton">Switch to Customer</a>
         </div>
     </nav>
     <div class="customerSection">    
