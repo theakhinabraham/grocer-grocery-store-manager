@@ -10,9 +10,11 @@
     <script src="http://localhost/myFolder/js/script.js"></script>
 </head>
 <body>
+    <!--
     <div class="loaderIndex" id="loader">
         <i class="fas fa-seedling"></i>
     </div>
+-->
     <div class="shadowBox">
         <div class="head">
             <i class="fas fa-seedling"></i>
