@@ -64,7 +64,11 @@
 # About Grocer: Grocery Store Manager
 <br>
 
-<!-- TODO: ADD SCREENS -->
+<div align="center">
+  <a href="https://github.com/theakhinabraham/grocer-grocery-store-manager">
+    <img src="img/cover.png" alt="Logo" width="1600" height="auto">
+  </a>
+</div>
 
 <br>
 Grocer is a web app that makes it easier for Grocery Store owners to focus on their business growth rather than wasting time on management. It is built using HTML, CSS, JavaScript, PHP, MySQL, Xampp & Apache. The best UI you will see for a management system web app, Grocery is your key to:
@@ -152,6 +156,48 @@ cd C://xampp/htdocs
 
 ## Usage
 <!-- TODO: ADD EXTRA SCREENSHOTS, CODE EXAMPLES AND DEMO -->
+<div align="center">
+  <a href="https://github.com/theakhinabraham/grocer-grocery-store-manager">
+    <img src="img/login.png" alt="Logo" width="auto" height="auto">
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/theakhinabraham/grocer-grocery-store-manager">
+    <img src="img/owner.png" alt="Logo" width="auto" height="auto">
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/theakhinabraham/grocer-grocery-store-manager">
+    <img src="img/employee.png" alt="Logo" width="auto" height="auto">
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/theakhinabraham/grocer-grocery-store-manager">
+    <img src="img/stocks.png" alt="Logo" width="auto" height="auto">
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/theakhinabraham/grocer-grocery-store-manager">
+    <img src="img/cust_data.png" alt="Logo" width="auto" height="auto">
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/theakhinabraham/grocer-grocery-store-manager">
+    <img src="img/cover.png" alt="Logo" width="auto" height="auto">
+  </a>
+</div>
+<br>
+
 ### LOG IN CREDENTIALS:
 #### CUSTOMERS:
 username: cust
