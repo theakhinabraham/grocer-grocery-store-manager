@@ -80,6 +80,7 @@ Key features of Grocer:
 1. Inventory Management: Add, remove, edit product details (name, quantity, price, quality).
 2. Employee Management: Add, remove, edit employee data.
 3. Product Overview: View comprehensive list of all available products with key details.
+4. Customer Management: View all data of customers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,6 +173,7 @@ For more examples, please refer to the [Documentation](https://github.com/theakh
 - [x] Create Login page
 - [ ] Create Register page
 - [ ] Store login credentials in MySQL Database
+- [ ] While registering, set username and password (instead of manual entering/hardcoding)
 - [x] Create Main page
 - [x] Add, edit and delete product and its details. Store it in MySQL Table.
 - [x] Display product list and its details by retrieving data from MySQL table.
