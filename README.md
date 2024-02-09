@@ -183,11 +183,11 @@ Don't forget to give the project a star! Thanks again!
 
 1. Fork this repository (and leave a star if you like) by click on the `fork` button on the top right side.
 2. From your copy of this repo located `grocer-grocery-store-manager`, copy the code link: `https://github.com/your-user-name/grocer-grocery-store-manager.git`
-3. Create a folder as `myFolder` in this location: `C://xampp/htdocs/`
-4. Open terminal and locate to `myFolder`
+3. Locate to: `C://xampp/htdocs/`
+4. Open terminal and locate to `htdocs`
 
 ```
-cd C://xampp/htdocs/myFolder
+cd C://xampp/htdocs
 ```
 <br>
 
@@ -198,35 +198,43 @@ cd C://xampp/htdocs/myFolder
   ```
 <br>
 
-6. Navigate to the root folder of this project
+6. Rename `grocer-grocery-store-manager` folder to `myFolder`
+7. Open the folder `myFolder` in your code editor (I use VS Code) & start coding.
+8. Download PHP Extensions in VS Code
+9. Run Apache and MySQL in Xampp
+10. Go to Chrome Browser and go to `http://localhost/myFolder/` to run the program
+11. Create a database named `grocer` with 3 tables in `http://localhost/phpmyadmin/`
+
+12. Navigate to the root folder of this project
   
   ```
-  cd /path/to/grocer-grocery-store-manager
+  cd C://xampp/htdocs/myFolder
+
   ```
 <br>
 
-7. DO **NOT** MAKE CHANGES TO THE main BRANCH, create your own branch and name it your name
+13. DO **NOT** MAKE CHANGES TO THE main BRANCH, create your own branch and name it your name
 
 ```
 git branch my-user-name
 ```
 <br>
 
-8. Confirm that your new branch `my-user-name` is created
+14. Confirm that your new branch `my-user-name` is created
 
 ```
 git branch
 ```
 <br>
 
-9. Select your new branch `my-user-name` and work on that branch only
+15. Select your new branch `my-user-name` and work on that branch only
 
 ```
 git checkout my-user-name
 ```
 <br>
 
-10. Confirm that you are in your branch `my-user-name` and **NOT** on `main`
+16. Confirm that you are in your branch `my-user-name` and **NOT** on `main`
 
 ```
 git branch
