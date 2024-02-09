@@ -138,6 +138,9 @@ cd C://xampp/htdocs
 9. Run Apache and MySQL in Xampp
 10. Go to Chrome Browser and go to `http://localhost/myFolder/` to run the program
 11. Create a database named `grocer` with 3 tables in `http://localhost/phpmyadmin/`
+12. Create a table named `product` and add 4 rows `Pid` `Pname` `Pprice` `Pstock`
+13. Create a table named `customer` and add 4 rows `Cid` `Cname` `Caddress` `Cphone`
+14. Create a table named `employee` and add 5 rows `Eid` `Ename` `Esalary` `Eaddress` `Ephone`
 
 (If not working: do check PORT number issues in Xampp)
 
@@ -204,8 +207,11 @@ cd C://xampp/htdocs
 9. Run Apache and MySQL in Xampp
 10. Go to Chrome Browser and go to `http://localhost/myFolder/` to run the program
 11. Create a database named `grocer` with 3 tables in `http://localhost/phpmyadmin/`
+12. Create a table named `product` and add 4 rows `Pid` `Pname` `Pprice` `Pstock`
+13. Create a table named `customer` and add 4 rows `Cid` `Cname` `Caddress` `Cphone`
+14. Create a table named `employee` and add 5 rows `Eid` `Ename` `Esalary` `Eaddress` `Ephone`
 
-12. Navigate to the root folder of this project
+15. Navigate to the root folder of this project
   
   ```
   cd C://xampp/htdocs/myFolder
@@ -213,28 +219,28 @@ cd C://xampp/htdocs
   ```
 <br>
 
-13. DO **NOT** MAKE CHANGES TO THE main BRANCH, create your own branch and name it your name
+16. DO **NOT** MAKE CHANGES TO THE main BRANCH, create your own branch and name it your name
 
 ```
 git branch my-user-name
 ```
 <br>
 
-14. Confirm that your new branch `my-user-name` is created
+17. Confirm that your new branch `my-user-name` is created
 
 ```
 git branch
 ```
 <br>
 
-15. Select your new branch `my-user-name` and work on that branch only
+18. Select your new branch `my-user-name` and work on that branch only
 
 ```
 git checkout my-user-name
 ```
 <br>
 
-16. Confirm that you are in your branch `my-user-name` and **NOT** on `main`
+19. Confirm that you are in your branch `my-user-name` and **NOT** on `main`
 
 ```
 git branch
