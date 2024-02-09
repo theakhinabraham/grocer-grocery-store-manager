@@ -138,9 +138,9 @@ cd C://xampp/htdocs
 9. Run Apache and MySQL in Xampp
 10. Go to Chrome Browser and go to `http://localhost/myFolder/` to run the program
 11. Create a database named `grocer` with 3 tables in `http://localhost/phpmyadmin/`
-12. Create a table named `product` and add 4 rows `Pid` `Pname` `Pprice` `Pstock`
-13. Create a table named `customer` and add 4 rows `Cid` `Cname` `Caddress` `Cphone`
-14. Create a table named `employee` and add 5 rows `Eid` `Ename` `Esalary` `Eaddress` `Ephone`
+12. Create a table named `product` and add 4 columns `Pid` `Pname` `Pprice` `Pstock`
+13. Create a table named `customer` and add 4 columns `Cid` `Cname` `Caddress` `Cphone`
+14. Create a table named `employee` and add 5 columns `Eid` `Ename` `Esalary` `Eaddress` `Ephone`
 
 (If not working: do check PORT number issues in Xampp)
 
@@ -217,9 +217,9 @@ cd C://xampp/htdocs
 9. Run Apache and MySQL in Xampp
 10. Go to Chrome Browser and go to `http://localhost/myFolder/` to run the program
 11. Create a database named `grocer` with 3 tables in `http://localhost/phpmyadmin/`
-12. Create a table named `product` and add 4 rows `Pid` `Pname` `Pprice` `Pstock`
-13. Create a table named `customer` and add 4 rows `Cid` `Cname` `Caddress` `Cphone`
-14. Create a table named `employee` and add 5 rows `Eid` `Ename` `Esalary` `Eaddress` `Ephone`
+12. Create a table named `product` and add 4 columns `Pid` `Pname` `Pprice` `Pstock`
+13. Create a table named `customer` and add 4 columns `Cid` `Cname` `Caddress` `Cphone`
+14. Create a table named `employee` and add 5 columns `Eid` `Ename` `Esalary` `Eaddress` `Ephone`
 
 15. Navigate to the root folder of this project
   
