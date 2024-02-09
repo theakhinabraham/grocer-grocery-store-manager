@@ -30,7 +30,7 @@ function login(){
         window.location.replace("http://localhost/myFolder/customer.php");
     }
 
-    else if (username == "owner" && password == "pass"){
+    else if (username == "owner" && password == "123"){
         window.location.replace("http://localhost/myFolder/storeOwner.php");
     }
 
