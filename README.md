@@ -117,11 +117,11 @@ Steps to install code into your local device and run using localhost:
 
 1. Fork this repository (and leave a star if you like) by click on the `fork` button on the top right side.
 2. From your copy of this repo located `grocer-grocery-store-manager`, copy the code link: `https://github.com/your-user-name/grocer-grocery-store-manager.git`
-3. Create a folder as `myFolder` in this location: `C://xampp/htdocs/`
-4. Open terminal and locate to `myFolder`
+3. Locate to: `C://xampp/htdocs/`
+4. Open terminal and locate to `htdocs`
 
 ```
-cd C://xampp/htdocs/myFolder
+cd C://xampp/htdocs
 ```
 <br>
 
@@ -132,11 +132,12 @@ cd C://xampp/htdocs/myFolder
   ```
 <br>
 
-6. Open the folder `myFolder` in your code editor (I use VS Code) & start coding.
-7. Download PHP Extensions in VS Code
-8. Run Apache and MySQL in Xampp
-9. Go to Chrome Browser and go to `http://localhost/myFolder/` to run the program
-10. Create a database named `grocer` with 3 tables in `http://localhost/phpmyadmin/`
+6. Rename `grocer-grocery-store-manager` folder to `myFolder`
+7. Open the folder `myFolder` in your code editor (I use VS Code) & start coding.
+8. Download PHP Extensions in VS Code
+9. Run Apache and MySQL in Xampp
+10. Go to Chrome Browser and go to `http://localhost/myFolder/` to run the program
+11. Create a database named `grocer` with 3 tables in `http://localhost/phpmyadmin/`
 
 (If not working: do check PORT number issues in Xampp)
 
