@@ -119,7 +119,7 @@
 
 </div>
 <footer class="copyright">
-    <h1 class="cpyrght">Developed by Akhin Abraham, Avlin Antony & Nandana S</h1>
+    <h1 class="cpyrght">Developed by Akhin Abraham & Avlin Antony</h1>
 </footer>
 
 <?php
