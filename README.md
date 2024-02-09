@@ -151,6 +151,14 @@ cd C://xampp/htdocs
 
 ## Usage
 <!-- TODO: ADD EXTRA SCREENSHOTS, CODE EXAMPLES AND DEMO -->
+### LOG IN CREDENTIALS:
+#### CUSTOMERS:
+username: cust
+password: 123
+
+#### GROCERY STORE OWNER:
+username: owner
+password: 123
 
 For more examples, please refer to the [Documentation](https://github.com/theakhinabraham/grocer-grocery-store-manager/wiki)_
 
@@ -161,7 +169,9 @@ For more examples, please refer to the [Documentation](https://github.com/theakh
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Create Login page & store credentials in MySQL Database
+- [x] Create Login page
+- [ ] Create Register page
+- [ ] Store login credentials in MySQL Database
 - [x] Create Main page
 - [x] Add, edit and delete product and its details. Store it in MySQL Table.
 - [x] Display product list and its details by retrieving data from MySQL table.
